@@ -1,0 +1,22 @@
+{
+  "name": "pet-owners-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "knex": "^3.1.0",
+    "moleculer": "^0.14.35",
+    "moleculer-repl": "^0.7.4",
+    "moleculer-web": "^0.10.8",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.0"
+  }
+}
